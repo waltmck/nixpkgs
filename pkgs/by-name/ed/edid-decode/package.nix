@@ -16,7 +16,7 @@ stdenv.mkDerivation {
 
   src = fetchgit {
     url = "https://git.linuxtv.org/edid-decode.git";
-    rev = "3d635499e4aca3319f0796ba787213c981c5a770";
+    rev = "5332a3b76080e17137db15fd31e2d3949cef5f84";
     hash = "sha256-bqzO39YM/3h9p37xaGJAw9xERgWOD+4yqO/XQiq/QqM=";
   };
 
